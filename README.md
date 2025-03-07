@@ -1,4 +1,4 @@
-# Product-Price-Scraper-from-Amazon-and-Flipkart
+# Web Scrapping e-commerce product prices
 
 Product Price Scraper is a web application that allows users to enter the name of a product and fetches the prices of the product from both Flipkart and Amazon websites. The backend of the application is built using Python with Flask, and web scraping is done using BeautifulSoup and Selenium.
 
